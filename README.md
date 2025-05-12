@@ -62,4 +62,9 @@ chat-app/
 - Add file/image sharing capability  
 - Include message reactions/emojis  
 - Implement end-to-end encryption  
-- Add voice/video chat functionality  
+- Add voice/video chat functionality
+
+
+## Output
+
+  
