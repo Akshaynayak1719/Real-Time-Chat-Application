@@ -8,20 +8,20 @@
 **Duration:** 15 Weeks  
 **Mentor:** NEELA SANTHOSH  
 
-## PROJECT DESCRIPTION  
+## 📘 PROJECT DESCRIPTION  
 **TITLE:** Real-Time Chat Application with Socket.IO  
 
 A full-stack real-time chat application built with the MERN stack and Socket.IO. The application features instant messaging, online user tracking, and message persistence with MongoDB storage.
 
 🚀 **Features**  
-✅ Real-time messaging with Socket.IO  
-✅ Online user presence tracking  
-✅ Message history persistence with MongoDB  
-✅ Responsive UI with distinct message bubbles  
-✅ User join/leave notifications  
-✅ Typing indicators (optional enhancement)  
-✅ Private messaging capability  
-✅ Message timestamps  
+- ✅ Real-time messaging with Socket.IO  
+- ✅ Online user presence tracking  
+- ✅ Message history persistence with MongoDB  
+- ✅ Responsive UI with distinct message bubbles  
+- ✅ User join/leave notifications  
+- ✅ Typing indicators (optional enhancement)  
+- ✅ Private messaging capability  
+- ✅ Message timestamps  
 
 📂 **Project Structure**  
 ```
